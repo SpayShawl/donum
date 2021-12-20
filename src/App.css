@@ -1,38 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;500;700&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    background-color: #1B1B1B;
+    color: #D9D9D7;
+    font: 1.2em "Inconsolata", sans-serif;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+h1 {
+    margin-bottom: 2em;
+}
+
+#typed {
+    width: 50%;
+    height: 30%;
+    text-align: center;
+}
+
 .App {
-  text-align: center;
+    width: 100vh;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.bold {
+    font-weight: 700;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.italic {
+    font-style: italic;
+    color: #635E4E;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.red {
+    color: #AE4426;
 }
 
-.App-link {
-  color: #61dafb;
+.green {
+    color: #729B5C
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.blue {
+    color: #688FA8;
+}
+
+.purple {
+    color: #AD6797;
+}
+
+.yellow {
+    color: #F1C40F;
+}
+
+.orange {
+    color: #DAA553
+}
+
+.pink {
+    color: pink
+}
+
+a {
+    color: #6AA5C6;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    opacity: 1;
+}
+
+button {
+    min-width: 100px;
+    height: 40px;
+    border: 1px solid #D9D9D7;
+    color: #D9D9D7;
+    background-color: #1B1B1B;
+    padding: 0 1em;
+    transition: all 500ms ease;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #D9D9D7;
+    color: #1B1B1B;
 }

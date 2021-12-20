@@ -1,0 +1,340 @@
+{
+    "stories" : [
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "<span class='bold'>--- Noel 2021 --- </span><br><br>- <span class='red'>Elros</span> : Hello ! J'ai vu ton profil sur <a href='https://adopteunblob.fr'>adopteunstaff.com</a><br>- Spoiler...Il a grandement capté mon intérêt.<br>- Est-ce que ça t'intéresserait de rejoindre l'équipe de PDRP ?",
+            "choices": [
+                {
+                    "value": "NON",
+                    "jump": 1
+                },
+                {
+                    "value": "OUI",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='red'>Elros</span> : Vraiment !? Ok, passe une bonne journée 🤷‍♀️",
+            "choices": [
+                {
+                    "value": "",
+                    "jump": 0
+                },
+                {
+                    "value": "",
+                    "jump": 0
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='red'>Elros</span> : Super nouvelle ! <br>- Du coup au vu de ton profil, je te propose le choix entre ces deux postes.<br>-Dis-moi celui qui t'intéresse le plus 🤗",
+            "choices": [
+                {
+                    "value": "Scénariste",
+                    "jump": 1
+                },
+                {
+                    "value": "Scénariste",
+                    "jump": 1
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='red'>Elros</span> : Eh he, très bon choix.<br>Voilà l'invitation sur le discord staff, bienvenue !",
+            "choices": [
+                {
+                    "value": "Refuser",
+                    "jump": 1
+                },
+                {
+                    "value": "Accepter",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "",
+            "choices": [
+                {
+                    "value": "",
+                    "jump": 0
+                },
+                {
+                    "value": "",
+                    "jump": 0
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "<span class='bold'>Tchou Tchou, bienvenue a Eragona chez les <span class='purple'>Scénaristes</span> ! </span><br><br>- <span class='green'>Em</span> : Welcome !<br>- <span class='purple'>Breggan</span> : Bienvenue 🥳<br>- <span class='blue'>Yapso</span> : Yo ! Bienvenue dans le pire pôle...<br><br><span class='italic'>Tout le monde te souhaite la bienvenue. Tu sens déjà l'atmosphère chaleureuse t'envahir</span>",
+            "choices": [
+                {
+                    "value": "Heu...Bonjour, merci 👉👈",
+                    "jump": 1
+                },
+                {
+                    "value": "Hey debout là dedans !!!",
+                    "jump": 3
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='yellow'>Pie Pie</span> : Vous lui faites peur !🧟<br>- <span class='blue'>Aykaa</span> : En même temps, on est chez les fous ici<br><br><span class='italic'>Les blagues, autour et entre le staff,  fusent à tout-va.<br>Que décides-tu ?</span>",
+            "choices": [
+                {
+                    "value": "...",
+                    "jump": 3
+                },
+                {
+                    "value": "Faire une blague",
+                    "jump": 1
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='purple'>Parfait, vous êtes aussi sain d'esprit que moi ! 😇</span><br>- <span class='red'>Fl0w</span> : G la ref !<br>- <span class='purple'>Ah ha </span><br>- <span class='blue'>Ph1lou</span> : Pas moi<br>- <span class='red'>Elros</span> : Alors en fait...<br>- <span class='blue'>Ph1lou</span> : M'en fou 👀<br>- <span class='red'>Elros</span> : 😭",
+            "choices": [
+                {
+                    "value": "...",
+                    "jump": 2
+                },
+                {
+                    "value": "...",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre I : Arrivée en grande pompe",
+            "text": "- <span class='red'>Emeline</span> : Ah ah, bienvenue. Tu es tombée au bon endroit visiblement",
+            "choices": [
+                {
+                    "value": "Renchérir",
+                    "jump": -1
+                },
+                {
+                    "value": "...",
+                    "jump": 1
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "<span class='bold'>Une semaine plus tard...</span><br><br>- <span class='green'>Lama</span> : Hello, c'est bientôt Noël !!!<br>- Je ne sais pas vous, mais je n'ai pas de plan pour celui-ci<br>- Est-ce que vous seriez intéressé pour faire une soirée en voc le 24 ?",
+            "choices": [
+                {
+                    "value": "Je suis occupée déso",
+                    "jump": 1
+                },
+                {
+                    "value": "J'en suis",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : Aucun souci<br><span class='italic'>Vous passez de super fêtes en famille et revenez après les vacances</span",
+            "choices": [
+                {
+                    "value": "",
+                    "jump": 0
+                },
+                {
+                    "value": "",
+                    "jump": 0
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : Super, on est déjà deux<br>- <span class='orange'>AmosNebulus</span> : Trois<br>- <span class='yellow'>SpayShawl</span> : Quatre par ici",
+            "choices": [
+                {
+                    "value": "Tout ça ?!",
+                    "jump": 1
+                },
+                {
+                    "value": "Top ! 🚀",
+                    "jump": 1
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : On fait quoi pendant la soirée ?<br>- <span class='yellow'>Spay Shawl</span> : On peut regarder un film de Noël<br>- <span class='orange'>AmosNebulus</span> : Ou bien jouer a des jeux",
+            "choices": [
+                {
+                    "value": "Va pour un film",
+                    "jump": 1
+                },
+                {
+                    "value": "Go faire des jeux !",
+                    "jump": 5
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='yellow'>Spay Shawl</span> : Victoire ! Par contre on regarde quoi ? Y'a une pelleté de films de noëls<br>- <span class='green'>Lama</span> : Maman j'ai raté l'avion<br>- E.T<br>- Le Grinch<br>- <span class='red'>Legya</span> : L'exorsiste 🍿",
+            "choices": [
+                {
+                    "value": "Euh....Autre chose ?",
+                    "jump": 1
+                },
+                {
+                    "value": "J'ai jamais vu E.T",
+                    "jump": 3
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='orange'>Amos Nebulus</span> : Yep, citons en d'autres <br>- <span class='red'>Aknian</span> : Star Wars <br>- <span class='blue'>Vic</span> : Last Christmas <br>- <span class='pink'>Réno</span> : Harry Potter I !!",
+            "choices": [
+                {
+                    "value": "Oh ! Harry Potter c'est bien vue",
+                    "jump": 1
+                },
+                {
+                    "value": "J'ai jamais vu E.T",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : C'était logique au final ! Va pour Harry Potter I du coup <br>- <span class='yellow'>Spay Shawl</span> : Indeed <br>- <span class='orange'>Amos</span> : Donc, on se dit le 24 a 21h",
+            "choices": [
+                {
+                    "value": "Yep, parfait !",
+                    "jump": 6
+                },
+                {
+                    "value": "...",
+                    "jump": 6
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : E.T ? Ok, ça me va <br>- <span class='yellow'>Spay Shawl</span> : Same <br>- <span class='orange'>Amos</span> : Donc, on se dit le 24 a 21h ?",
+            "choices": [
+                {
+                    "value": "Yep, parfait !",
+                    "jump": 5
+                },
+                {
+                    "value": "...",
+                    "jump": 5
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='orange'>Amos Nebulus</span> : Victoire ! Par contre on joue à quoi ? Y'a une pelleté de jeux<br>- <span class='green'>Lama</span> : Loup garou<br>- Minecraft<br>- Code name<br>- <span class='red'>Legya</span> : Echecs 🐴",
+            "choices": [
+                {
+                    "value": "Euh....Autre chose ?",
+                    "jump": 1
+                },
+                {
+                    "value": "J'ai jamais joué à code name",
+                    "jump": 3
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='orange'>Amos Nebulus</span> : Yep, citons en d'autres <br>- <span class='red'>Aknian</span> : Un uno<br>- <span class='blue'>Vic</span> : Belotte <br>- <span class='pink'>Réno</span> : Monopoly Harry Potter !!",
+            "choices": [
+                {
+                    "value": "Oh ! Harry Potter c'est bien vue",
+                    "jump": 1
+                },
+                {
+                    "value": "J'ai jamais joué à code name",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : C'était logique au final ! Va pour Harry Potter du coup <br>- <span class='yellow'>Spay Shawl</span> : Indeed <br>- <span class='orange'>Amos</span> : Donc, on se dit le 24 a 21h",
+            "choices": [
+                {
+                    "value": "Yep, parfait !",
+                    "jump": 3
+                },
+                {
+                    "value": "...",
+                    "jump": 3
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre II : Préparation",
+            "text": "- <span class='green'>Lama</span> : Code name ? Ok, ça me va <br>- <span class='yellow'>Spay Shawl</span> : Same <br>- <span class='orange'>Amos</span> : Donc, on se dit le 24 a 21h ?",
+            "choices": [
+                {
+                    "value": "Yep, parfait !",
+                    "jump": 2
+                },
+                {
+                    "value": "...",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre III : Soirée",
+            "text": "<span class='italic'>Vous avez passé votre soirée à regarder le film <br> Vous finissez par discuter pendant plusieurs heures et sentez que vous formez une équipe plus soudée.</span>",
+            "choices": [
+                {
+                    "value": "...",
+                    "jump": 2
+                },
+                {
+                    "value": "...",
+                    "jump": 2
+                }
+            ]
+        },
+        {
+            "chapter": "Chapitre III : Soirée",
+            "text": "<span class='italic'>Vous avez passé votre soirée à jouer <br> Malheureusement certains sont mauvais joueur et quittent la partie et le salon<br>Au moins vous ne vous vous êtes pas trop ennuyé</span>",
+            "choices": [
+                {
+                    "value": "...",
+                    "jump": 1
+                },
+                {
+                    "value": "...",
+                    "jump": 1
+                }
+            ]
+        },
+        {
+            "chapter": "Joyeuses fêtes !!!",
+            "text": "",
+            "choices": [
+                {
+                    "value": "",
+                    "jump": 0
+                },
+                {
+                    "value": "",
+                    "jump": 0
+                }
+            ]
+        }
+    ]
+}
